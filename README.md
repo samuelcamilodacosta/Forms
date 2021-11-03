@@ -1,2 +1,3 @@
-# Formulários
-Diversos formulários de login, registro, responsivos, backgrounds com efeitos, gradient, grids, entre outros
+# Forms
+
+Various forms of login, registration, responsive, backgrounds with effects, gradient, grids, among others 
